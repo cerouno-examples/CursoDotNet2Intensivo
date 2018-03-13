@@ -1,0 +1,12 @@
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\bin\Debug\netcoreapp2.0\IntroToCore.deps.json
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\bin\Debug\netcoreapp2.0\IntroToCore.runtimeconfig.json
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\bin\Debug\netcoreapp2.0\IntroToCore.runtimeconfig.dev.json
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\bin\Debug\netcoreapp2.0\IntroToCore.dll
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\bin\Debug\netcoreapp2.0\IntroToCore.pdb
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\obj\Debug\netcoreapp2.0\IntroToCore.csprojResolveAssemblyReference.cache
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\obj\Debug\netcoreapp2.0\IntroToCore.csproj.CoreCompileInputs.cache
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\obj\Debug\netcoreapp2.0\IntroToCore.AssemblyInfoInputs.cache
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\obj\Debug\netcoreapp2.0\IntroToCore.AssemblyInfo.cs
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\obj\Debug\netcoreapp2.0\IntroToCore.dll
+C:\Users\Erii\source\repos\IntroToCore\IntroToCore\obj\Debug\netcoreapp2.0\IntroToCore.pdb
