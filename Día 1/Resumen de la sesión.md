@@ -1,4 +1,4 @@
-###Presentación
+### Presentación
 Para romper el hielo, ponernos en sintonía y dar tiempo de preparar el entorno se hizo una pequeña presentación (ppt anexo).
 
 Comenzó con una pequeña introducción sobre mi experiencia en sistemas, enfocado a la parte de backend, con algunas experiencias.
@@ -11,7 +11,7 @@ También se incluyo una breve explicación sobre el [middleware](https://docs.mi
 
 Con dos animaciónes de mostró la diferencia entre un manejo asíncrono de un request y uno síncrono.
 
-###Aplicación
+### Aplicación
 Para demostrar una aplicación de Net Core se utilizó visual studio 2017, donde:
 
 1. Se creo un nuevo proyecto basado en una aplicación web con net core, incluyendo el manejo de sesiones de usuario usando una base de datos.
